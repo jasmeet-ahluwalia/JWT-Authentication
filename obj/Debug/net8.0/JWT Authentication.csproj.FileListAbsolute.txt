@@ -1,0 +1,41 @@
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.AssemblyInfo.cs
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\JWT Authentication.exe
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\JWT Authentication.deps.json
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\JWT Authentication.runtimeconfig.json
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\JWT Authentication.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\JWT Authentication.pdb
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\staticwebassets\msbuild.JWT Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\staticwebassets\msbuild.build.JWT Authentication.props
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JWT Authentication.props
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWT Authentication.props
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\scopedcss\bundle\JWT Authentication.styles.css
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Auth.C5759403.Up2Date
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\refint\JWT Authentication.dll
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.pdb
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\JWT Authentication.genruntimeconfig.cache
+C:\Users\Admin\source\repos\JWT Authentication\JWT Authentication\obj\Debug\net8.0\ref\JWT Authentication.dll
